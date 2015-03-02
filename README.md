@@ -4,10 +4,10 @@ Character frequency
 find the frequency of each character in a paragraph
 only for alphabetical characters and ignore casing
 
-given a paragraph iterate through the characters and fine the percentage of each charcher "how many times it has been used compared to all other characters in the whole paragraph"
+Given a paragraph iterate through the characters and find the percentage of each character "how many times it has been used compared to all other characters in the whole paragraph"
 print the frequency of each char in the console or represent them in a bar chart, a pie chart, a graph or however you like
 
-no restrictions on language used
+No restrictions on language used
 ______________________________________________________________________________________________________
 
 example:
